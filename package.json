@@ -4,7 +4,7 @@
   "description": "helps people learn history of Belarus",
   "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node Bot.js"
   },
   "author": "Anton Kurdo",
   "license": "ISC",
